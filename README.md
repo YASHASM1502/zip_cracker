@@ -53,8 +53,8 @@ You can use:
 ## 🧑‍💻 Author
 
 *Yashas M Samrat
-📧 Email: chintulambu27@gmail.com
-🌐 LinkedIn: linkedin.com/in/yashas-m-418b39243
-💻 GitHub: https://github.com/YASHASM1502
+* 📧 Email: chintulambu27@gmail.com
+* 🌐 LinkedIn: linkedin.com/in/yashas-m-418b39243
+* 💻 GitHub: https://github.com/YASHASM1502
 
 
