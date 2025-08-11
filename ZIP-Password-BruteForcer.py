@@ -11,14 +11,11 @@ banner = '''
  ###################################
  # ZIP Password BruteForcer        #
  ###################################
- # Coded By Sir.4m1R               #
- # The404Hacking                   #
- # Digital Security ReSearch Group #
- # T.me/The404Hacking              #
+ # Coded By Sir.4m1R               #                #
+ # Digital Security ReSearch Group #             #
  ###################################
  GitHub:
- https://github.com/The404Hacking/ZIP-Password-BruteForcer
-
+ https://github.com/YASHASM1502/zip_cracker
  [1] Zip Password Cracker
  [0] Exit
 '''
@@ -36,10 +33,8 @@ elif a == 1:
     textzippass = '''
  #########################################
  # Zip Password Brute Forcer (Top Speed) #
- #########################################
- # The404Hacking                         #
- # Digital Security ReSearch Group       #
- # T.me/The404Hacking                    #
+ ########################################                        #
+ # Digital Security ReSearch Group       #                   #
  #########################################
  '''
     print(textzippass)
@@ -73,3 +68,4 @@ elif a == 1:
         print(" [X] Sorry, Password Not Found :(")
 
     main(file_path, word_list)
+
